@@ -13,35 +13,35 @@ screen = pygame.display.set_mode((800, 600))
 running = True
 score = 0
 pygame.display.set_caption("ICS20 Catch")
-icon = pygame.image.load('clay.png')
+icon = pygame.image.load('Catch21-main\clay.png')
 pygame.display.set_icon(icon)
 clock = pygame.time.Clock()
 start = 75350
 #player image
-playerImg = pygame.image.load('minus-big-symbol.png')
+playerImg = pygame.image.load('Catch21-main\minus-big-symbol.png')
 playerX = 270
 playerY = 480
 player_Xchange = 0
 #box image
-boxImg1 = pygame.image.load('clay.png')
+boxImg1 = pygame.image.load('Catch21-main\clay.png')
 boxX1 = 270
 boxY1 = 0
 box_Ychange1 = 0
 box_Xchange1 = 0
 
-boxImg2 = pygame.image.load('clay.png')
+boxImg2 = pygame.image.load('Catch21-main\clay.png')
 boxX2 = 500
 boxY2 = -400
 box_Ychange2 = 0
 box_Xchange2 = 0
 
-boxImg3 = pygame.image.load('clay.png')
+boxImg3 = pygame.image.load('Catch21-main\clay.png')
 boxX3 = 20
 boxY3 = -600
 box_Ychange3 = 0
 box_Xchange3 = 0
 
-boxImg4 = pygame.image.load('clay.png')
+boxImg4 = pygame.image.load('Catch21-main\clay.png')
 boxX4 = 700
 boxY4 = -800
 box_Ychange4 = 0
