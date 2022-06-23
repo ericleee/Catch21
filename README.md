@@ -1,6 +1,5 @@
 # Catch21
-Catch the block music game with pyhton
-Will continue be be updated.
+Catch the block music game with pyhton.
 
 To Be Updated:
 - Main Menu Revamp
