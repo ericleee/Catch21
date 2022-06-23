@@ -155,7 +155,7 @@ while Menu == True:
     screen.blit(button_text, (350 - (button_text_width / 2), 400))
     pygame.display.flip()
 #music
-mixer.music.load('circles.wav.mp3')
+mixer.music.load('Catch21-main\circles.wav.mp3')
 mixer.music.play(-1, 1)
 #game loop
 while running == True:
