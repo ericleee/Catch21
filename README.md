@@ -1,5 +1,6 @@
 # Catch21
-Catch the block music game with pyhton.
+Catch the block music game with python and pygame!
+Just download the code zip file and hit run!
 
 To Be Updated:
 - Main Menu Revamp
